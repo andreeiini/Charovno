@@ -1,6 +1,6 @@
 import random
 
-def guess_the_number():
+def guess_the_number():1
     number = random.randint(1, 100)
     guess = None
 
